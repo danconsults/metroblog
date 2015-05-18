@@ -7,11 +7,11 @@ highlighter: pygments
 permalink:        /blog/:year/:month/:day/:title
 
 # Setup
-title:            'Jekyll Metro'
-tagline:          'A Metro theme for Jekyll'
-description:      'A Sample blog using Jekyll Metro'
+title:            'Daniel Mainas Blog'
+tagline:          'The meeting-point between my work and passions'
+description:      'A blog about my work and other topics of interest.'
 url:              'http://localhost:4000'
-baseurl:          '/home'
+baseurl:          ''
 
 # Navigation
 navigation:
@@ -28,16 +28,15 @@ navigation:
 
 
 # Author Details
-author:         'Abdel Raoof Olakara'
+author:         'Daniel Maina'
 
 #Social Media links
-linkedin:       'https://ae.linkedin.com/in/olakara/'
-twitter:        'https://twitter.com/olakara'
-facebook:       'https://www.facebook.com/olakara'
-gplus:          'https://plus.google.com/100425464897246255887/'
+linkedin:       'https://fi.linkedin.com/in/danielnjuguna'
+twitter:        'https://twitter.com/dan_maina'
+
 
 # Google Analytics
-gahandler: 'UA-52149651-1'
+gahandler: 'UA-63108237-1'
 
 #if footer-links-visible is 'true' the svg-icons will be shown top on the copy right.
 #else the svg icons will not exist
@@ -45,7 +44,7 @@ footersvg: 'true'
 
 footer-links:
   dribbble:
-  email: None
+  email: fofungi@aol.com
   facebook:
   flickr:
   github:
@@ -58,7 +57,7 @@ footer-links:
   stackoverflow: #users/4388898/peter-zhu # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Disqus
-disqushandler: 'testingblogo'
+disqushandler: 'Daniel.M'
 
 # Blog Configurations
 paginate: 10 # Posts per page on the blog index
