@@ -13,7 +13,7 @@
 
   <title>
     
-      Daniel Mainas Blog &middot; The meeting-point between my work and passions
+      Daniel Maina &middot; The meeting-point between my work and passions
     
   </title>
 
@@ -36,13 +36,11 @@
     var backgroundImage = [];
 
     backgroundImage[0]='bcg1.jpg';
-    backgroundImage[1]='bcg2.jpg';
-    backgroundImage[2]='bcg3.jpg';
-    backgroundImage[3]='bcg4.jpg';
+  
 
     var random=Math.floor(Math.random()*4);
     document.write("<style>body {background: url("+"/assets/images/"+backgroundImage[random]+") no-repeat center center fixed;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;color:#fff;background-color:#333;}</style>")
-    
+
     </script>
   <link rel="stylesheet" href="http://localhost:4000/assets/css/bcg.css">
   <link rel="stylesheet" href="http://localhost:4000/assets/css/MetroJs.min.css">
@@ -69,7 +67,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="/">Daniel Mainas Blog</a>
+                    <a class="navbar-brand" href="/">Daniel Maina</a>
                 </div>
                 <div class="navbar-collapse collapse navbar-responsive-collapse">
                     <ul class="nav navbar-nav">
@@ -102,27 +100,31 @@
 
 	<header class="row">
 	  <div class="col-sm-6 col-md-12" style="margin-top:25px;margin-bottom:25px">
-	    <h1 id="pin">Daniel Mainas Blog</h1>
+	    <h1 id="pin">Daniel Maina</h1>
 	  </div>
 	</header>
 	<nav>
-		<div class="row" style="margin-top:25px">
- 			<div class="col-md-4 col-sm-6 col-xs-12">
+		<div class="row" style="margin-top:10px">
+ 			<div class="col-md-4 col-sm-8 col-xs-12">
 				<a href="about/">
+					<h2 class="title">About Me</h2>
 					<div class="tile purple profile bord">
 						<h2 class="title">About Me</h2>
-						<p>Hello World, I am Daniel Maina.</p>
+						<p>Hello, I am Daniel Maina. Currently, I am in the process of finishing my
+							masters thesis and looking for new opportunities.</p>
+							<p>Feel free to browse around by clicking on the boxes around this one. </p>
 					</div>
 				</a>
-		    </div>
-			<div class="col-md-2 col-sm-3 col-xs-6">
-				<a href="resume/" title="Resume" class="tile red bord icon-resume"></a>
+		   </div>
+			<h2 class="title">Résumé</h2>
+			<div class="col-md-2 col-sm-2 col-xs-6">
+				<a href="resume/" title="Resume" class="tile orange bord icon-resume"></a>
 			</div>
-			<div class="col-md-2 col-sm-3 col-xs-6">
-				<div class="live-tile" data-mode="flip" data-delay="4000">
-					<div>
-						<a href="blog/" title="Blog" class="tile orange bord icon-blog"></a>
-					</div>
+	<div class="col-md-2 col-sm-4 col-xs-6">
+			<div class="live-tile" data-mode="carousel" data-delay="7000">
+			<div>
+				<a href="blog/" title="Blog" class="tile blue bord icon-blog"></a>
+	</div>
 					<div>
 						<a href="blog/" title="Blog" class="tile orange bord font-fix">
 						<p>Blog Section:</p>

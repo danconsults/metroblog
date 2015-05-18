@@ -7,7 +7,7 @@ highlighter: pygments
 permalink:        /blog/:year/:month/:day/:title
 
 # Setup
-title:            'Daniel Mainas Blog'
+title:            'Daniel Maina'
 tagline:          'The meeting-point between my work and passions'
 description:      'A blog about my work and other topics of interest.'
 url:              'http://localhost:4000'
@@ -51,13 +51,13 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  google: None
-  twitter: None
-  stackoverflow: #users/4388898/peter-zhu # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  rss: links # just type anything here for a working RSS icon, make sure you set the "url" above!
+  google: 
+  twitter: 
+  stackoverflow: 
 
 # Disqus
-disqushandler: 'Daniel.M'
+disqushandler: 'Danielm'
 
 # Blog Configurations
 paginate: 10 # Posts per page on the blog index
