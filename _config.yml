@@ -11,9 +11,7 @@ title:            'Daniel Maina'
 tagline:          'The meeting-point between my work and passions'
 description:      'A blog about my work and other topics of interest.'
 url:              'http://localhost:4000'
-<<<<<<< HEAD
 baseurl:          '/metroblog'
-=======
 
 # Navigation
 navigation:
