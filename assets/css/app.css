@@ -27,7 +27,7 @@
     margin: 0 auto;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 568px) {
   .sidebar {
     position: fixed;
     top: 0px;
