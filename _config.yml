@@ -42,7 +42,7 @@ gahandler: 'UA-52149651-1'
 
 #if footer-links-visible is 'true' the svg-icons will be shown top on the copy right.
 #else the svg icons will not exist
-footersvg: 'true'
+footersvg: ''
 
 footer-links:
   dribbble:
