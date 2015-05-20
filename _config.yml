@@ -7,9 +7,9 @@ highlighter: pygments
 permalink:        /blog/:year/:month/:day/:title
 
 # Setup
-title:            'Jekyll Metro'
-tagline:          'A Metro theme for Jekyll'
-description:      'A Sample blog using Jekyll Metro'
+title:            'Daniel Maina'
+tagline:          'Interested in Data,to find knowledge'
+description:      'That sweet spot where work & passions meet'
 url:              'http://danielmaina.me'
 baseurl:          '/metroblog'
 
@@ -47,7 +47,6 @@ footersvg: 'true'
 footer-links:
   dribbble:
   email: fofungi@gmail.com
-  facebook:
   flickr:
   github:
   instagram:
