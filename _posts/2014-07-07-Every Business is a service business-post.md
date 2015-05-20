@@ -6,10 +6,8 @@ categories: Services
 tags: Service Design
 ---
 
-An h1 header
+What's our business? We mainly deal in  <del> Manufacturing </del> ** Serivces.**
 ============
-
-What's our business? We mainly deal in  <del> Manufacturing </del> Serivces.
 
 Every business is a service business. 
 
