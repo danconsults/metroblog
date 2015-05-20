@@ -2,42 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>http://localhost:4000/blog/2014/07/07/another-sharepoint-post</loc>
+        <loc>http://danielmaina.me/blog/2014/07/07/another-sharepoint-post</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/blog/2014/06/25/markdown-basics</loc>
+        <loc>http://danielmaina.me/blog/2014/06/25/markdown-basics</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/blog/2014/06/25/another-sample-markdown</loc>
+        <loc>http://danielmaina.me/blog/2014/06/25/another-sample-markdown</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/blog/2014/06/24/a-sample-pangram</loc>
+        <loc>http://danielmaina.me/blog/2014/06/24/a-sample-pangram</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/blog/2013/10/11/clearing-sharepoint-designer-cache</loc>
+        <loc>http://danielmaina.me/blog/2013/10/11/clearing-sharepoint-designer-cache</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/blog/2013/04/20/dashboard-designer-cannot-connect-to-performancepoint</loc>
-    </url>
-    
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/404.html</loc>
+        <loc>http://danielmaina.me/blog/2013/04/20/dashboard-designer-cannot-connect-to-performancepoint</loc>
     </url>
     
     
     
     
-    
     <url>
-        <loc>http://localhost:4000/feed.xml</loc>
+        <loc>http://danielmaina.me/404.html</loc>
     </url>
     
     
@@ -45,7 +37,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/</loc>
+        <loc>http://danielmaina.me/feed.xml</loc>
     </url>
     
     
@@ -53,7 +45,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/archive/</loc>
+        <loc>http://danielmaina.me/</loc>
     </url>
     
     
@@ -61,7 +53,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/blog/</loc>
+        <loc>http://danielmaina.me/blog/</loc>
     </url>
     
     
@@ -69,7 +61,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/tags/</loc>
+        <loc>http://danielmaina.me/archive/</loc>
     </url>
     
     
@@ -77,7 +69,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/tags/SharePoint/</loc>
+        <loc>http://danielmaina.me/search/</loc>
     </url>
     
     
@@ -85,7 +77,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/resume/</loc>
+        <loc>http://danielmaina.me/tags/</loc>
     </url>
     
     
@@ -93,7 +85,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/about/</loc>
+        <loc>http://danielmaina.me/tags/SharePoint/</loc>
     </url>
     
     
@@ -101,7 +93,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/search.html</loc>
+        <loc>http://danielmaina.me/resume/</loc>
     </url>
     
     
@@ -109,7 +101,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/search.json</loc>
+        <loc>http://danielmaina.me/about/</loc>
     </url>
     
     
@@ -117,7 +109,23 @@
     
     
     <url>
-        <loc>http://localhost:4000/sitemap.xml</loc>
+        <loc>http://danielmaina.me/search.html</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://danielmaina.me/search.json</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://danielmaina.me/sitemap.xml</loc>
     </url>
     
     
