@@ -4,12 +4,61 @@ title: Resume
 description: Resume of Abdel Raoof
 theme: red
 ---
-Six years of experience in software development on Microsoft and Java technologies. Experienced in design and development of enterprise web applications, content management systems and enterprise application integration.
+------
+# Daniel Maina
+## Final-year Masters student
+> Information and Service management.
+> [My contact.](fofungi@aol.com)
 
-**Experience in Web Technology:**
-Building and Supporting web applications using Microsoft Technologies (ASP.Net & ASP.Net MVC). Developing UI using Ext JS and jQuery.
+------
 
-**Experience in Enterprise Content Management:**
+### Profile {#profile}
+
+Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiatives before cross-media catalysts for change. Six years of experience in software development on Microsoft and Java technologies. Experienced in design and development of enterprise web applications, content management systems and enterprise application integration.
+
+------
+**Education:**
+
+2010-2014 (expected)
+:   **PhD, Computer Science**; Awesome University (MyTown)
+ 
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
+
+2007-2010
+:   **BSc, Computer Science and Electrical Engineering**; University of
+    HomeTown (HomeTown)
+ 
+    *Minor: Awesomeology*
+ 
+------
+
+**Experience :**
+
+------
+
+** 1. Experience in lala Content Management:**
+Initrode Conglomerated
+: *Principal and Creative Lead*
+
+
+Short text containing the type of work done, results obtained,
+lessons learned and other remarks. Can also include lists and
+links:
+ 
+* First item
+ 
+* Item with [link](http://www.example.com). Links will work both in
+  the html and pdf versions.
+
+Microsoft Technologies (ASP.Net & ASP.Net MVC). Developing UI using Ext JS and jQuery.
+
+------
+
+** 2. Experience in Enterprise Content Management:**
+Gizmonic Institute Company (GIM)
+: Lead Web Designer
+
 Implemented custom applications for content and knowledge management. Have also worked with leading industry ECM applications like SharePoint 2013, MOSS 2007, SharePoint 2010 and Documentum.
 
 <!-- Skills -->
@@ -89,3 +138,9 @@ Implemented custom applications for content and knowledge management. Have also 
 		</ul>
 	</div>
 </section>
+
+------
+
+### Footer {#footer}
+
+Craig Davis -- [craig@there4development.com](craig@there4development.com) -- (999) 888-7777
