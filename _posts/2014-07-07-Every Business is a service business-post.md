@@ -6,9 +6,11 @@ categories: Services
 tags: Service Design
 ---
 
-What's our business? We mainly deal in  <del> Manufacturing </del> **Serivces.**
+What's our business? 
 ------------
 
+We mainly deal in  <del> Manufacturing </del> **Serivces.**
+------------
 Every business is a service business. 
 
 For companies in the service sector, information equals direct competitive advantage. This explains why content providers record your preference for comedy over drama, or your hotel records your preference for a non-smoking place.
