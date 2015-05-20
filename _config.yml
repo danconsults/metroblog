@@ -53,7 +53,7 @@ footersvg: 'true'
 
 footer-links:
   dribbble:
-  email: None
+  email: fofungi@gmail.com
   facebook:
   flickr:
   github:
@@ -62,7 +62,7 @@ footer-links:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   google: None
-  twitter: https://twitter.com/dan_njuguna
+  twitter: "https://twitter.com/dan_njuguna"
   stackoverflow: #""
 
 # Disqus
