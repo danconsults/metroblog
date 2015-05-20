@@ -1,24 +1,19 @@
 ---
 layout: post
-title:  Another Sharepoint post
+title:  What's our business? We mainly deal in  ~~Manufacturing.~~ Serivces
 date:   2014-07-07 15:30:00
-categories: SharePoint
-tags: SharePoint Designer
+categories: Services
+tags: Service Desighn
 ---
 
-A blog is a Web site that enables you or your organization to quickly share ideas and information. Blogs contain posts that are dated and listed in reverse chronological order. People can comment on your posts, as well as provide links to interesting sites, photos, and related blogs.
+Every business is a service business. 
 
-Posts are an essential part of a blog. They are typically journal-like entries that contain information, ideas, and opinions. They are displayed in chronological order, starting with the most recent posts.
+For companies in the service sector, information equals direct competitive advantage. This explains why content providers record your preference for comedy over drama, or your hotel records your preference for a non-smoking place.
 
-You can create a post on a SharePoint blog by using a Web browser, if you have permission to contribute to the Posts list. You don't need additional tools or programs to create content, add pictures, apply formatting, and insert hyperlinks. To post comments to a blog, you must have permission to contribute to the Comments list. In some cases, comments must be approved before they will appear on the site.
+Currently, companies that have not traditionally thought of themselves as service providers are beginning to think differently. Does a car manufacturer sell cars or transportation services? If the latter, then it makes sense for the Auto-dealership to offer you a temporary car whenever your own is in the shop, (as many now do).
 
- Note   If your Web browser doesn't support ActiveX controls, then the formatting toolbar may not be available. However, you can use basic HTML tags to format the text in your blog posts.
+Even commodity products can be enhanced with service. A phone company that monitors your phone usage and sells you some airtime when you need it offers a better service than the companies that expect you to load your phone with air-time when you have completely run out.
 
-[![This is a test](http://lorempixel.com/400/200/sports/1/ "A title!"){:class="img-responsive image-center thumbnail " height="200px" width="400px"}](http://lorempixel.com/400/200/sports/1/){:class="ltbox"}
+The main differenciators in competitive advantage are the price and the service level. Most companies are wisely side-stepping price wars that are brought about by incresing technologies and efficiencies, in favour of charging more for better services.
 
-You can also post content to a blog by doing the following:
-
-    Creating and submitting a post in an e-mail message. In order to submit a post in an e-mail message, your blog must be enabled to receive content in e-mail messages.
-    Creating a post by using a blog creation and publishing tool that is compatible with a SharePoint blogs.
-
-By default, blogs are set up so that approval is required before posts are published. This can be helpful if numerous people are publishing content, or if a post could contain sensitive content. By default, people who have permission to manage lists can approve blog posts, but you can customize those settings.
+yes. No matter what business you are in, you are primarilly dealing with services, and the more you consider your business from that angle, the more you shall be able to strategise.
