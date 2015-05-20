@@ -2,37 +2,26 @@
 layout: page
 title: Hi, I am Daniel Maina
 description: Introduction page for Daniel Maina
-theme: Blue
+theme: purple
 ---
 
-I am a web focused developer mostly working using Microsoft .Net technologies. Occasionally, I end up working on non web related projects. I am based in Abu Dhabi, United Arab Emirates and work for C4 Advanced Solution as Application Developer.
-This is my personal website and blog where I put down my thoughts, solutions to problems and learning notes.
+Hi, my name is Daniel, and I’m a senior in Aalto university about to graduate. I have worked in a variety of jobs and my aim is to help frustrated Companies manage information. I am fascinated by the process flow of data to knowledge.
 
-## Stack Overflow
-
-Stackoverflow is a online community I hang around a lot during my free time. You can find me answering questions on Sencha's Ext Js , C# and Java. Here is my flair:
-
-<a href="http://stackexchange.com/users/62487">
-<img src="http://stackexchange.com/users/flair/62487.png?theme=clean" width="208" height="58" alt="profile for Abdel Olakara on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Abdel Olakara on Stack Exchange, a network of free, community-driven Q&amp;A sites">
-</a>
-
+I am looking for opportunities that involve working with data and finding ways to create more value to consumers.
 
 ## About this Site
 
-This is a static site powered by Jekyll. The design was done by me and the theme is freely available on [Github](https://github.com/olakara/JekyllMetro). I have used Bootstrap, jQuery, icons from Metro Studio of Syncfusion and Github for hosting the site.
+This is a static site powered by Jekyll, and run using the ruby language. I have tried to develop a website using Django, but i am still on the learning curve with python. Main site design was done by olakara, a developer based in UAE.
 
-Technicals apart, this is my personal site where I plan to pen down my thoughts, technical experiences that I would like to share. But, the content and opnion that you see here are personal and not related to companies / clients i work with. And regarding the code you see there.. you may use it as per your discretion.
+The site uses Bootstrap, jQuery, icons from Metro Studio of Syncfusion and Github for hosting the site.
 
-## About this Theme
+I enjoy the simplicity of information tiles that lead to more information based on user interest.
 
-Jekyll Metro is the result of wanting a clean and new theme for my personal site. I was initially inspired by the [Hyde theme](https://github.com/poole/hyde). but soon I was googling to see if there are any Metro inspired theme available.
-Since, I couldn't find one, I decided to built one for myself. One of the main goal of building my own theme was to have a modern responsive theme that looks good on mobile, tablet and desktop.
-
-You are free to use or fork this theme. And any contribution to fixes of issues are welcome.
+Technicals apart, this is my site where I plan to pen down my thoughts and professional  experiences that I would like to share. However, content and opinion you see here are personal and very subject to change. I set up this site with the comment section to encourage sharing of information, hopefully leading to learning.
 
 ## Contact Me
 
-For short messages and quick replies, you can contact me via [Twitter](http://twitter.com/olakara) For anything longer feel free to use the comments section below and I'll reply you by email.
+For short messages and quick replies, you can contact me via [Email](fofungi@gmail.com) For anything else, feel free to use the comments section below and I'll reply you by email.
 
 ### Comments:
 
