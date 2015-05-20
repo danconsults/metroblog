@@ -6,7 +6,7 @@ categories: Services
 tags: Service Design
 ---
 
-What's our business? We mainly deal in  ~~Manufacturing.~~ Serivces.
+What's our business? We mainly deal in  ~~ Manufacturing.~~ Serivces.
 
 Every business is a service business. 
 
