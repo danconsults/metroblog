@@ -31,18 +31,11 @@ navigation:
 author:         'Daniel Maina'
 
 #Social Media links
-dribbble:
-email:
-facebook:       
-flickr:
+email: fofungi@gmail.com
 github:         
-gplus:          
-instagram:
-pinterest:
-linkedin:       'https://fi.linkedin.com/in/danielnjuguna'
+linkedin: 'https://fi.linkedin.com/in/danielnjuguna'
 rss:
-stackoverflow:
-twitter:        'https://twitter.com/dan_njuguna'
+twitter: 'https://twitter.com/dan_njuguna'
 
 # Google Analytics
 gahandler: 'UA-52149651-1'
@@ -61,9 +54,8 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  google: None
   twitter: "https://twitter.com/dan_njuguna"
-  stackoverflow: #""
+  stackoverflow: 
 
 # Disqus
 disqushandler: 'Danielm'
