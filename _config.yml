@@ -31,10 +31,18 @@ navigation:
 author:         'Abdel Raoof Olakara'
 
 #Social Media links
-linkedin:       'https://ae.linkedin.com/in/olakara/'
-twitter:        'https://twitter.com/olakara'
+dribbble:
+email:
 facebook:       'https://www.facebook.com/olakara'
+flickr:
+github:         
 gplus:          'https://plus.google.com/100425464897246255887/'
+instagram:
+pinterest:
+linkedin:       'https://ae.linkedin.com/in/danmyner/'
+rss:
+stackoverflow:
+twitter:        'https://twitter.com/olakara'
 
 # Google Analytics
 gahandler: 'UA-52149651-1'
