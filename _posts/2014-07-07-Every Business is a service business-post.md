@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  What's our business? We mainly deal in  ~~Manufacturing.~~ Serivces
+title:  Every Business is a service business.
 date:   2014-07-07 15:30:00
 categories: Services
 tags: Service Design
 ---
+
+What's our business? We mainly deal in  ~~Manufacturing.~~ Serivces.
 
 Every business is a service business. 
 
