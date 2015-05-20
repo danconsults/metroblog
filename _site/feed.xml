@@ -1,44 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jekyll Metro</title>
-    <description>A Sample blog using Jekyll Metro</description>
-    <link>http://danielmaina.me/</link>
-    <atom:link href="http://danielmaina.me/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 20 May 2015 10:16:03 +0300</pubDate>
-    <lastBuildDate>Wed, 20 May 2015 10:16:03 +0300</lastBuildDate>
+    <title>Daniel Maina</title>
+    <description>That sweet spot where work &amp; passions meet</description>
+    <link>http://danielmaina.me/metroblog/</link>
+    <atom:link href="http://danielmaina.me/metroblog/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 20 May 2015 20:09:26 +0300</pubDate>
+    <lastBuildDate>Wed, 20 May 2015 20:09:26 +0300</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Another Sharepoint post</title>
-        <description>&lt;p&gt;A blog is a Web site that enables you or your organization to quickly share ideas and information. Blogs contain posts that are dated and listed in reverse chronological order. People can comment on your posts, as well as provide links to interesting sites, photos, and related blogs.&lt;/p&gt;
+        <title>Every Business is a service business.</title>
+        <description>&lt;h2 id=&quot;whats-our-business&quot;&gt;What’s our business?&lt;/h2&gt;
 
-&lt;p&gt;Posts are an essential part of a blog. They are typically journal-like entries that contain information, ideas, and opinions. They are displayed in chronological order, starting with the most recent posts.&lt;/p&gt;
+&lt;h2 id=&quot;we-mainly-deal-in--del-manufacturing-del-serivces&quot;&gt;We mainly deal in  &lt;del&gt; Manufacturing &lt;/del&gt; &lt;strong&gt;Serivces.&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Every business is a service business.&lt;/p&gt;
 
-&lt;p&gt;You can create a post on a SharePoint blog by using a Web browser, if you have permission to contribute to the Posts list. You don’t need additional tools or programs to create content, add pictures, apply formatting, and insert hyperlinks. To post comments to a blog, you must have permission to contribute to the Comments list. In some cases, comments must be approved before they will appear on the site.&lt;/p&gt;
+&lt;p&gt;For companies in the service sector, information equals direct competitive advantage. This explains why content providers record your preference for comedy over drama, or your hotel records your preference for a non-smoking place.&lt;/p&gt;
 
-&lt;p&gt;Note   If your Web browser doesn’t support ActiveX controls, then the formatting toolbar may not be available. However, you can use basic HTML tags to format the text in your blog posts.&lt;/p&gt;
+&lt;p&gt;Currently, companies that have not traditionally thought of themselves as service providers are beginning to think differently. Does a car manufacturer sell cars or transportation services? If the latter, then it makes sense for the Auto-dealership to offer you a temporary car whenever your own is in the shop, (as many now do).&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://lorempixel.com/400/200/sports/1/&quot; class=&quot;ltbox&quot;&gt;&lt;img src=&quot;http://lorempixel.com/400/200/sports/1/&quot; alt=&quot;This is a test&quot; title=&quot;A title!&quot; class=&quot;img-responsive image-center thumbnail &quot; height=&quot;200px&quot; width=&quot;400px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Even commodity products can be enhanced with service. A phone company that monitors your phone usage and sells you some airtime when you need it offers a better service than the companies that expect you to load your phone with air-time when you have completely run out.&lt;/p&gt;
 
-&lt;p&gt;You can also post content to a blog by doing the following:&lt;/p&gt;
+&lt;p&gt;The main differenciators in competitive advantage are the price and the service level. Most companies are wisely side-stepping price wars that are brought about by incresing technologies and efficiencies, in favour of charging more for better services.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;Creating and submitting a post in an e-mail message. In order to submit a post in an e-mail message, your blog must be enabled to receive content in e-mail messages.
-Creating a post by using a blog creation and publishing tool that is compatible with a SharePoint blogs.
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;By default, blogs are set up so that approval is required before posts are published. This can be helpful if numerous people are publishing content, or if a post could contain sensitive content. By default, people who have permission to manage lists can approve blog posts, but you can customize those settings.&lt;/p&gt;
+&lt;p&gt;yes. No matter what business you are in, you are primarilly dealing with services, and the more you consider your business from that angle, the more you shall be able to strategise.&lt;/p&gt;
 </description>
         <pubDate>Mon, 07 Jul 2014 18:30:00 +0300</pubDate>
-        <link>http://danielmaina.me/blog/2014/07/07/another-sharepoint-post</link>
-        <guid isPermaLink="true">http://danielmaina.me/blog/2014/07/07/another-sharepoint-post</guid>
+        <link>http://danielmaina.me/metroblog/blog/2014/07/07/Every%20Business%20is%20a%20service%20business-post</link>
+        <guid isPermaLink="true">http://danielmaina.me/metroblog/blog/2014/07/07/Every%20Business%20is%20a%20service%20business-post</guid>
         
-        <category>SharePoint</category>
+        <category>Service</category>
         
-        <category>Designer</category>
+        <category>Design</category>
         
         
-        <category>sharepoint</category>
+        <category>services</category>
         
       </item>
     
@@ -87,8 +84,8 @@ not be indented with tabs or spaces. Markdown is smart enough not
 to add extra (unwanted) &lt;code&gt;&amp;lt;p&amp;gt;&lt;/code&gt; tags around HTML block-level tags.&lt;/p&gt;
 </description>
         <pubDate>Wed, 25 Jun 2014 02:30:58 +0300</pubDate>
-        <link>http://danielmaina.me/blog/2014/06/25/markdown-basics</link>
-        <guid isPermaLink="true">http://danielmaina.me/blog/2014/06/25/markdown-basics</guid>
+        <link>http://danielmaina.me/metroblog/blog/2014/06/25/markdown-basics</link>
+        <guid isPermaLink="true">http://danielmaina.me/metroblog/blog/2014/06/25/markdown-basics</guid>
         
         <category>Design</category>
         
@@ -287,8 +284,8 @@ which you wish to be displayed literally, ex.: `foo`, *bar*, etc.&lt;/p&gt;
 &lt;/div&gt;
 </description>
         <pubDate>Wed, 25 Jun 2014 02:28:58 +0300</pubDate>
-        <link>http://danielmaina.me/blog/2014/06/25/another-sample-markdown</link>
-        <guid isPermaLink="true">http://danielmaina.me/blog/2014/06/25/another-sample-markdown</guid>
+        <link>http://danielmaina.me/metroblog/blog/2014/06/25/another-sample-markdown</link>
+        <guid isPermaLink="true">http://danielmaina.me/metroblog/blog/2014/06/25/another-sample-markdown</guid>
         
         <category>Design</category>
         
@@ -317,8 +314,8 @@ Adjusting quiver and bow, Zompyc[1] killed the fox. My faxed joke won a pager in
 Amazingly few discotheques provide jukeboxes. My girl wove six dozen plaid jackets before she quit. Six big devils from Japan quickly forgot how they won the game&lt;/p&gt;
 </description>
         <pubDate>Tue, 24 Jun 2014 00:28:58 +0300</pubDate>
-        <link>http://danielmaina.me/blog/2014/06/24/a-sample-pangram</link>
-        <guid isPermaLink="true">http://danielmaina.me/blog/2014/06/24/a-sample-pangram</guid>
+        <link>http://danielmaina.me/metroblog/blog/2014/06/24/a-sample-pangram</link>
+        <guid isPermaLink="true">http://danielmaina.me/metroblog/blog/2014/06/24/a-sample-pangram</guid>
         
         <category>Sample</category>
         
@@ -346,8 +343,8 @@ Amazingly few discotheques provide jukeboxes. My girl wove six dozen plaid jacke
 &lt;p&gt;Fire up your SharePoint Designer and you should get a clean start.&lt;/p&gt;
 </description>
         <pubDate>Fri, 11 Oct 2013 18:30:00 +0300</pubDate>
-        <link>http://danielmaina.me/blog/2013/10/11/clearing-sharepoint-designer-cache</link>
-        <guid isPermaLink="true">http://danielmaina.me/blog/2013/10/11/clearing-sharepoint-designer-cache</guid>
+        <link>http://danielmaina.me/metroblog/blog/2013/10/11/clearing-sharepoint-designer-cache</link>
+        <guid isPermaLink="true">http://danielmaina.me/metroblog/blog/2013/10/11/clearing-sharepoint-designer-cache</guid>
         
         <category>SharePoint</category>
         
@@ -429,8 +426,8 @@ Amazingly few discotheques provide jukeboxes. My girl wove six dozen plaid jacke
 &lt;p&gt;These steps should ensure that you get your PerformancePoint service up and running.&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Apr 2013 18:30:00 +0300</pubDate>
-        <link>http://danielmaina.me/blog/2013/04/20/dashboard-designer-cannot-connect-to-performancepoint</link>
-        <guid isPermaLink="true">http://danielmaina.me/blog/2013/04/20/dashboard-designer-cannot-connect-to-performancepoint</guid>
+        <link>http://danielmaina.me/metroblog/blog/2013/04/20/dashboard-designer-cannot-connect-to-performancepoint</link>
+        <guid isPermaLink="true">http://danielmaina.me/metroblog/blog/2013/04/20/dashboard-designer-cannot-connect-to-performancepoint</guid>
         
         <category>SharePoint</category>
         
