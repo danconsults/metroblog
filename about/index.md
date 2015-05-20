@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hi, I am Daniel Maina
+title: Hello, Welcome to my page.
 description: Introduction page for Daniel Maina
 theme: purple
 ---
