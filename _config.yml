@@ -28,21 +28,21 @@ navigation:
 
 
 # Author Details
-author:         'Abdel Raoof Olakara'
+author:         'Daniel Maina'
 
 #Social Media links
 dribbble:
 email:
-facebook:       'https://www.facebook.com/olakara'
+facebook:       
 flickr:
 github:         
-gplus:          'https://plus.google.com/100425464897246255887/'
+gplus:          
 instagram:
 pinterest:
-linkedin:       'https://ae.linkedin.com/in/danmyner/'
+linkedin:       'https://fi.linkedin.com/in/danielnjuguna'
 rss:
 stackoverflow:
-twitter:        'https://twitter.com/olakara'
+twitter:        'https://twitter.com/dan_njuguna'
 
 # Google Analytics
 gahandler: 'UA-52149651-1'
@@ -62,11 +62,11 @@ footer-links:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   google: None
-  twitter: None
-  stackoverflow: #users/4388898/peter-zhu # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  twitter: https://twitter.com/dan_njuguna
+  stackoverflow: #""
 
 # Disqus
-disqushandler: 'testingblogo'
+disqushandler: 'Danielm'
 
 # Blog Configurations
 paginate: 10 # Posts per page on the blog index
