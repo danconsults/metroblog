@@ -13,7 +13,7 @@ theme: red
 		
 > Msc. Information and Service management.
 		
-> [Contact via email.](mailto:fofungi@aol.com)
+> [Contact me via email.](mailto:fofungi@aol.com)
 
 ------
 
@@ -33,7 +33,7 @@ Background includes experience with the top global communication companies, as w
 2010-2015 
 : **Masters of science, Information & Service management**; \\
 Aalto University, Helsinki.\\
-	*Minor: [Information Technology Program](http://itpaalto.net/information-service-business/)* \
+	*Minor: [Information Technology Program](http://itpaalto.net/information-service-business/)* 
 
 ~~~~~~~~
     Thesis title: Risk analysis in information security : A case study of Finland.
@@ -52,29 +52,30 @@ Helsinki, Finland.\\
 
 ***
 
-**1. Experience in lala Content Management:**
-Initrode Conglomerated
-: *Principal and Creative Lead*
+**1. Experience in business technology consulting:**
+Airbus Defense and space, Helsinki 
+: *Business technology project consultant*
 
+Developed a business plan for adoption of cloud computing technologies in mission- critical communication.
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
- 
-* First item
- 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Researched Finnish and European markets to discover technology industry drives, trends, and customer needs. 
+* Interviewed both internal and  external experts to identify potential technology suppliers and estimate market size.
 
-Microsoft Technologies (ASP.Net & ASP.Net MVC). Developing UI using Ext JS and jQuery.
+Extensive communication technology knowledge required and precise presentation and management reporting skills.
 
 ------
 
-** 2. Experience in Enterprise Content Management:**
-Gizmonic Institute Company (GIM)
-: Lead Web Designer
+**2. Experience in Logistics:**
+[Itella logistics](http://www.posti.com//)
+: *Logistics assistant*
 
-Implemented custom applications for content and knowledge management. Have also worked with leading industry ECM applications like SharePoint 2013, MOSS 2007, SharePoint 2010 and Documentum.
+Made final delivery and route planning for cargo and parcels.
+
+* Helped analyze data to improve forecast for better space utilization.
+* Delivery scheduling.
+* Completed paperless delivery forms, collected charges, and obtained signature on receipts for delivery of specified types of mail
+* Planned transportation routes, work schedules, and assignments and allocated equipment to meet transportation, operations, and production goals.
+* Training (Explained and demonstrated work tasks to new workers).
 
 ------
 
@@ -117,24 +118,11 @@ Implemented custom applications for content and knowledge management. Have also 
     <td class="tg-031e"></td>
     <td class="tg-031e">Ruby on rails</td>
   </tr>
-</table>
-
-------
-
-
-
-| Software      || Languages    || Programming  |
-| ------------- |------------- |:-------------|------------- | :------------|
-| SPSS      	|| English (Fluent) ||    R-programming language|
-| MS Office      	|| French (Basics)||Markdown text language|
-| Advanced excel 	|| Finnish (intermediate)      ||    Latex document language|
-| Oracle SQL || German (Basic)   | |  HTML/CSS    |
-| MS Office     | | ||Ruby on rails|
-
+</table> <br>
 
 
 ------
 
-### Footer {#footer}
 
-Craig Davis -- [craig@there4development.com](craig@there4development.com) -- (999) 888-7777
+
+
