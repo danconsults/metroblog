@@ -24,12 +24,18 @@ Progressively evolve cross-platform ideas before impactful infomediaries. Energi
  
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
+=======
+	*Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     	Estimation Problem*
+>>>>>>> origin/gh-pages
 
 2007-2010
 :   **BSc, Computer Science and Electrical Engineering**; University of
     HomeTown (HomeTown)
- 
     *Minor: Awesomeology*
+=======
+    	*Minor: Awesomeology*
+>>>>>>> origin/gh-pages
  
 ------
 
