@@ -11,17 +11,13 @@ I am looking for opportunities that involve working with data and finding ways t
 
 ## About this Site
 
-This is a static site powered by Jekyll, and run using the ruby language. I have tried to develop a website using Django, but i am still on the learning curve with python. Main site design was done by olakara, a developer based in UAE.
+This site is mainly a repository for data projects and other issues related to information management. It contains some projects that i find interesting, and also provides me with an opportunity to learn about my hooby, web application development. 
 
-The site uses Bootstrap, jQuery, icons from Metro Studio of Syncfusion and Github for hosting the site.
+Technically, this site is built using jekyll, a ruby-based site scaffold generator.
 
-I enjoy the simplicity of information tiles that lead to more information based on user interest.
+## Yes, you can also contact me! 
 
-Technicals apart, this is my site where I plan to pen down my thoughts and professional  experiences that I would like to share. However, content and opinion you see here are personal and very subject to change. I set up this site with the comment section to encourage sharing of information, hopefully leading to learning.
-
-## Contact Me
-
-For short messages and quick replies, you can contact me via [Email](fofungi@gmail.com) For anything else, feel free to use the comments section below and I'll reply you by email.
+If you're interested in taking a project consultancy, or any other details you might consider private, you can contact me via [Email](fofungi@gmail.com) For anything else, feel free to use the comments section below and the dialogue shall begin.
 
 ### Comments:
 
