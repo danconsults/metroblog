@@ -19,7 +19,7 @@ theme: red
 
 **Profile:**
 
-Service management professional with over 4 years of broad-based information technology experience, 
+Service management professional with over 4 years of broad-based information technology experience, \\
 including business technology consulting, as well as sales and marketing of technology services and solutions.
 
 Emphasis on providing direction and technical leadership for the planning, 
