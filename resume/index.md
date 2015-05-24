@@ -4,8 +4,9 @@ title: Resume
 description: Resume of Daniel Maina
 theme: red
 ---
-------	
+
 Daniel Maina
+
 ==================
 
 Final-year Masters student
