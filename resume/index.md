@@ -33,13 +33,17 @@ Background includes experience with the top global communication companies, as w
 2010-2015 
 : **Masters of science, Information & Service management**; \\
 Aalto University, Helsinki.\\
-	*Minor: [Information Technology Program](http://itpaalto.net/information-service-business/)* \\
-    $ Thesis title: Risk analysis in information security : A case study of Finland.$
+	*Minor: [Information Technology Program](http://itpaalto.net/information-service-business/)* \
+
+~~~~~~~~
+    Thesis title: Risk analysis in information security : A case study of Finland.
+~~~~~~~~
+
 
 2007-2010
-:   **BSc, Bachelor of Science in Economics and Business Administration **; 
-Helsinki School of economics (Now Aalto University).
-Helsinki, Finland.
+: **BSc, Bachelor of Science in Economics and Business Administration**; \\
+Helsinki School of economics (Now Aalto University).\\
+Helsinki, Finland.\\
     *Minor: Management*
 
 ------
@@ -76,17 +80,56 @@ Implemented custom applications for content and knowledge management. Have also 
 
 **Skills :**
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;margin:0px auto;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
+.tg .tg-e3zv{font-weight:bold}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-e3zv">Software</th>
+    <th class="tg-e3zv">Languages</th>
+    <th class="tg-e3zv">Programming</th>
+  </tr>
+  <tr>
+    <td class="tg-031e">SPSS</td>
+    <td class="tg-031e">English (Fluent)</td>
+    <td class="tg-031e">R-programming language</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">MS Office</td>
+    <td class="tg-031e">French (Basics)</td>
+    <td class="tg-031e">Markdown text language</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Advanced excel</td>
+    <td class="tg-031e">Finnish (intermediate)</td>
+    <td class="tg-031e">Latex document language</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">Oracle SQL</td>
+    <td class="tg-031e">German (Basic)</td>
+    <td class="tg-031e">HTML/CSS</td>
+  </tr>
+  <tr>
+    <td class="tg-031e">MS Office</td>
+    <td class="tg-031e"></td>
+    <td class="tg-031e">Ruby on rails</td>
+  </tr>
+</table>
+
+------
 
 
 
-| Software      | Languages    | Programming  |
-| ------------- |:-------------| :------------|
-| SPSS      	| English (Fluent) |    R-programming language|
-| MS Office      	| French (Basics)|Markdown text language|
-| Advanced excel 	| Finnish (intermediate)      |    Latex document language|
-| Oracle SQL | German (Basic)    |  HTML/CSS    |
-| MS Office      | |Ruby on rails|
-
+| Software      || Languages    || Programming  |
+| ------------- |------------- |:-------------|------------- | :------------|
+| SPSS      	|| English (Fluent) ||    R-programming language|
+| MS Office      	|| French (Basics)||Markdown text language|
+| Advanced excel 	|| Finnish (intermediate)      ||    Latex document language|
+| Oracle SQL || German (Basic)   | |  HTML/CSS    |
+| MS Office     | | ||Ruby on rails|
 
 
 
