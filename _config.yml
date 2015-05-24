@@ -57,7 +57,7 @@ footer-links:
   stackoverflow: 
 
 # Disqus
-disqushandler: 'talknow'
+disqushandler: 'Danielm'
 
 # Blog Configurations
 paginate: 10 # Posts per page on the blog index
