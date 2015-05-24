@@ -80,9 +80,9 @@ Implemented custom applications for content and knowledge management. Have also 
 
 | Software      | Languages    | Programming  |
 | ------------- |:-------------| :------------|
-| SPSS      | English (Fluent) |    R-programming language|
-| MS Office      | French (Basics)|Markdown text language|
-| Advanced excel | Finnish (intermediate)      |    Latex document language|
+| SPSS      	| English (Fluent) |    R-programming language|
+| MS Office      	| French (Basics)|Markdown text language|
+| Advanced excel 	| Finnish (intermediate)      |    Latex document language|
 | Oracle SQL | German (Basic)    |  HTML/CSS    |
 | MS Office      | |Ruby on rails|
 
