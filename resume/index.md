@@ -13,7 +13,7 @@ Final-year Masters student
 		
 > Msc. Information and Service management.
 		
-> [My contact.]<fofungi@aol.com>
+> [My contact.](<fofungi@aol.com>)
 
 ------
 
