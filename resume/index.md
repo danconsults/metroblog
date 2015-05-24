@@ -5,46 +5,41 @@ description: Resume of Daniel Maina
 theme: red
 ---
 ------	
- # Daniel Maina
-	
- ## Final-year Masters student
+# Daniel Maina
+## Final-year Masters student
 		
-> Information and Service management.
+> Msc. Information and Service management.
 		
 > [My contact.](fofungi@aol.com)
 
 ------
 
-### Profile {#profile}
+**Profile:**
 
-Progressively evolve cross-platform ideas before impactful infomediaries. Energistically visualize tactical initiatives before cross-media catalysts for change. Six years of experience in software development on Microsoft and Java technologies. Experienced in design and development of enterprise web applications, content management systems and enterprise application integration.
+Service management professional with over 4 years of broad-based information technology experience, including business technology consulting, as well as sales and marketing of technology services and solutions.
+
+Emphasis on providing direction and technical leadership for the planning, management, and implementation of infrastructure solutions for mission-critical environments. Background includes experience with the top global communication companies, as well training at some of the top consulting firms. 
 
 ------
 **Education:**
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
- 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-=======
-	*Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     	Estimation Problem*
->>>>>>> origin/gh-pages
+2010-2015 
+: **Masters of science, Information & Service management**; 
+Aalto University, Helsinki.
+*Minor: [Information Technology Program](http://itpaalto.net/information-service-business/)*
+    Thesis title: Risk analysis in information security : A case study of Finland. 
 
 2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-    *Minor: Awesomeology*
-=======
-    	*Minor: Awesomeology*
->>>>>>> origin/gh-pages
- 
+:   **BSc, Bachelor of Science in Economics and Business Administration **; 
+Helsinki School of economics (Now Aalto University).
+Helsinki, Finland.
+    *Minor: Management*
+
 ------
 
 **Experience :**
 
-------
+***
 
 ** 1. Experience in lala Content Management:**
 Initrode Conglomerated
