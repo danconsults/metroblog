@@ -6,7 +6,6 @@ theme: red
 ---
 
 Daniel Maina
-
 ==================
 
 Final-year Masters student
