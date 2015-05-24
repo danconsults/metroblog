@@ -1,5 +1,5 @@
 --
-layout: draft
+layout: post
 title:  Text analysis using R-programing language.
 date:   2013-04-20 15:30:00
 tags:
