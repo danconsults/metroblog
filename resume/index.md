@@ -5,9 +5,9 @@ description: Resume of Daniel Maina
 theme: red
 ---
 ------	
-# Daniel Maina
+ # Daniel Maina
 	
-## Final-year Masters student
+ ## Final-year Masters student
 		
 > Information and Service management.
 		
