@@ -23,7 +23,8 @@ Service management professional with over 4 years of broad-based information tec
 including business technology consulting, as well as sales and marketing of technology services and solutions.
 
 Emphasis on providing direction and technical leadership for the planning, 
-management, and implementation of infrastructure solutions for mission-critical environments. 
+management, \\
+and implementation of infrastructure solutions for mission-critical environments. \\
 Background includes experience with the top global communication companies, as well training at some of the top consulting firms. 
 
 ------
