@@ -47,7 +47,7 @@ Helsinki, Finland.
 
 ***
 
-** 1. Experience in lala Content Management:**
+**1. Experience in lala Content Management:**
 Initrode Conglomerated
 : *Principal and Creative Lead*
 
@@ -71,62 +71,23 @@ Gizmonic Institute Company (GIM)
 
 Implemented custom applications for content and knowledge management. Have also worked with leading industry ECM applications like SharePoint 2013, MOSS 2007, SharePoint 2010 and Documentum.
 
-<!-- Skills -->
-<section class="row">
-	<header class="col-md-3">
-		<h3 style="text-transform:uppercase;color:gray">Skills</h3>
-	</header>
-	<div class="col-md-9">
-		<div class="row">
-			<div class="col-md-6">
-				<ul class="list-group">
-					<li class="list-group-item active"><h4><strong>Programming</strong></h4></li>
-					<li class="list-group-item">C#</li>
-					<li class="list-group-item">ASP.Net / ASP.Net MVC</li>
-					<li class="list-group-item">Javascript</li>
-					<li class="list-group-item">HTML & CSS</li>
-				</ul>
-			</div>
-			<div class="col-md-6">
-				<ul class="list-group">
-					<li class="list-group-item active"><h4><strong>Software</strong></h4></li>
-					<li class="list-group-item">.Net Web Technologies</li>
-					<li class="list-group-item">SharePoint 2013</li>
-					<li class="list-group-item">Sencha Ext Js</li>
-				</ul>
-			</div>
-			<div class="col-md-6">
-				<ul class="list-group">
-					<li class="list-group-item active"><h4><strong>Languages</strong></h4></li>
-					<li class="list-group-item">.Net Web Technologies</li>
-					<li class="list-group-item">SharePoint 2013</li>
-					<li class="list-group-item">Sencha Ext Js</li>
-				</ul>
-			</div>
-		</div>
-	</div>
-</section>
-<hr/>
-<!-- Education -->
-<section class="row">
-	<header class="col-md-3">
-		<h3 style="text-transform:uppercase;color:gray">Education</h3>
-	</header>
-	<div class="col-md-9">
-		<ul>
-			<li>
-				<h4>Master of Computer Applications (MCA)</h4>
-				<p>2004-2007 - Vellore Institute of Technology</p>
-			</li>
-			<li>
-				<h4>Bachelor of Sscience - Computer Science</h4>
-				<p>2001-2004 - University of Calicut</p>
-			</li>
-		</ul>
-	</div>
-</section>
-<hr/>
-</section>
+------
+
+**Skills :**
+
+
+
+
+| Software      | Languages    | Programming  |
+| ------------- |:-------------| :------------|
+| SPSS      | English (Fluent) |    R-programming language|
+| MS Office      | French (Basics)|Markdown text language|
+| Advanced excel | Finnish (intermediate)      |    Latex document language|
+| Oracle SQL | German (Basic)    |  HTML/CSS    |
+| MS Office      | |Ruby on rails|
+
+
+
 
 ------
 
