@@ -89,14 +89,6 @@ Implemented custom applications for content and knowledge management. Have also 
 			</div>
 			<div class="col-md-6">
 				<ul class="list-group">
-					<li class="list-group-item active"><h4><strong>Specialties</strong></h4></li>
-					<li class="list-group-item">.Net Web Technologies</li>
-					<li class="list-group-item">SharePoint 2013</li>
-					<li class="list-group-item">Sencha Ext Js</li>
-				</ul>
-			</div>
-			<div class="col-md-6">
-				<ul class="list-group">
 					<li class="list-group-item active"><h4><strong>Software</strong></h4></li>
 					<li class="list-group-item">.Net Web Technologies</li>
 					<li class="list-group-item">SharePoint 2013</li>
