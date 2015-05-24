@@ -33,7 +33,7 @@ Background includes experience with the top global communication companies, as w
 2010-2015 
 : **Masters of science, Information & Service management**; \\
 Aalto University, Helsinki.\\
-*Minor: [Information Technology Program](http://itpaalto.net/information-service-business/)* \\
+	*Minor: [Information Technology Program](http://itpaalto.net/information-service-business/)* \\
     $ Thesis title: Risk analysis in information security : A case study of Finland.$
 
 2007-2010
