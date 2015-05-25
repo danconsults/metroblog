@@ -4,7 +4,6 @@ title:  Text analysis using R-programming language.
 date:   2013-04-20 15:30:00
 tags:	R-programming Data analysis  
 ---
-<link href="http://kevinburke.bitbucket.org/markdowncss/markdown.css" rel="stylesheet"></link>
 
 After configuring my PerformancePoint Service on SharePoint 2013. This error hit me when trying to create a new data source from Dashboard Designer.
 
