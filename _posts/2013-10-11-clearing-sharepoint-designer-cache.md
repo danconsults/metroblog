@@ -3,6 +3,11 @@ layout: post
 title:  Clearing SharePoint Designer Cache
 date:   2013-10-11 15:30:00
 categories: SharePoint
+
+style: |
+  body {
+  	background: HoneyDew;
+	}
 tags: SharePoint Designer
 ---
 
