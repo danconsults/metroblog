@@ -3,16 +3,6 @@ layout: post
 title:  Text analysis using R-programming language.
 date:   2013-04-20 15:30:00
 tags:	R-programming Data analysis  
-style: |
-body {
-        background-color: rgb(200,200,200);}
-        h1 {
-        background-color: DarkCyan;}
-        h2 {
-        background-color: #ee3e80;}
-        p{
-        background-color: white;
-    }
 ---
 
 After configuring my PerformancePoint Service on SharePoint 2013. This error hit me when trying to create a new data source from Dashboard Designer.
