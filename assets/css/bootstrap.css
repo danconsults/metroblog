@@ -12,8 +12,19 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 body {
-  margin: 0;
-  height: 100%;
+  body {
+        position:relative;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 400;
+        line-height: 2;
+        font-size: 100%;
+        color: #fff;
+        background-color:black;
+        background-image: -webkit-linear-gradient(top, #0b2323,#423a9f,#c94761,#599a64);
+        background-image: -moz-linear-gradient(top, #0b2323,#423a9f,#c94761,#599a64);
+        background-image: -o-linear-gradient(top, #0b2323,#423a9f,#c94761,#599a64);
+        background-image: linear-gradient(top, #0b2323,#423a9f,#c94761,#599a64);
+    }
 }
 article,
 aside,
