@@ -9,7 +9,7 @@ permalink:        /blog/:year/:month/:day/:title
 # Setup
 title:            'Daniel Maina'
 tagline:          'Interested in Data,to find knowledge'
-description:      'That sweet spot where work & passions meet'
+description:      'Where work & passions meet'
 url:              'http://danielmaina.me'
 baseurl:          '/metroblog'
 

@@ -1,0 +1,83 @@
+ <link rel="shortcut icon" href="/favicon.ico"/>
+    <style>html{box-sizing:border-box;overflow-y:auto;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}html,body,div{padding:0;margin:0;}*,*:before,*:after{box-sizing:inherit;}.container{margin:0 auto;width:90%;max-width:40em;}body{background:#F8F8F8;border-top:5px solid #7a7a7a;}main{display:block;margin-bottom:6em;}img{max-width:100%;height:auto;}a img{border:0;}a{color:#09c;}ul{margin:0 0 1.5em 0;padding:0;}ul{list-style-type:none;}body{font-size:87.5%;line-height:1.8;color:#3a3a3a;font-family:'Helvetica Neue',sans-serif;font-weight:300;}@media (min-width: 33.75em){body{font-size:100%;}}@media (min-width: 50em){body{font-size:112.5%;}}::-moz-selection{background:#F4936B;}::selection{background:#F4936B;}::-moz-selection{background:#F4936B;}p{margin:0 0 2em;}h1{font-weight:300;font-size:1.8rem;margin-bottom:0.25em;line-height:1.2;text-align:left;margin-top:0;}@media (min-width: 33.75em){h1{font-size:3rem;}}@media (min-width: 50em){h1{font-size:4rem;}}h2{font-weight:400;color:#3a3a3a;line-height:1.2em;margin-top:0;margin-bottom:0.3em;font-family:'Open Sans','Helvetica Neue',sans-serif;}h2{font-size:1.4em;line-height:1.2;font-weight:300;margin-top:0;}@media (min-width: 40em){h2{font-size:1.6rem;font-weight:400;}}a{color:#09c;text-decoration:none;-webkit-transition:color 0.2s ease-out;transition:color 0.2s ease-out;}@media (min-width: 40em){a{text-decoration:underline;}}.icon-button{border:1px solid #d0d0d0;background:#f2f2f2;text-decoration:none;border-radius:3em;height:46px;width:46px;padding:7px 9px;display:inline-block;}.icon-button svg{width:26px;height:26px;fill:#3a3a3a;-webkit-transition:fill 0.2s ease-in;transition:fill 0.2s ease-in;}.site-header{overflow:hidden;padding:1em 0 2em;}.site-header .container{position:relative;}.site-header .logo{position:absolute;left:0;top:0;height:45px;width:270px;}.site-header .logo svg{width:100%;height:100%;fill:transparent;}@media (min-width: 40em){.site-header{padding:2em 0;}.site-header .logo svg{fill:#3a3a3a;}}.navigation{float:right;position:relative;z-index:100;}.navigation ul{margin:0 auto;}.navigation li{display:inline-block;list-style-type:none;margin-left:0.25em;}.archive-list{border-top:1px solid #d0d0d0;list-style-type:none;margin:0 0 2em;padding:0;}.archive-list li{border-bottom:1px solid #d0d0d0;}.archive-list a{display:block;border-bottom:none;overflow:hidden;padding:2em 0.5em;text-decoration:none;}@media (min-width: 33.75em){.archive-list a{padding:2em 1em;}}.archive-list p{margin-bottom:0;line-height:1.8;color:#7a7a7a;}.archive-list .advertisement{padding-top:2em;}@media (min-width: 80em){.archive-list .advertisement{border-bottom:0;padding-top:0;}}.fusionentire{background:#f2f2f2;display:table;width:100%;margin-bottom:0.5em;}.fusionentire a{font-size:1em;vertical-align:middle;}.fusionentire a:first-of-type{width:130px;height:100px;line-height:0;}#fusion_ad{margin-bottom:2em;font-size:0.725em;line-height:1.5;min-height:125px;}#fusion_ad a{color:#7a7a7a;text-decoration:none;padding:0;display:table-cell;}@media (min-width: 80em){#fusion_ad{position:absolute;right:-170px;width:130px;padding:0;top:0;margin-top:0;}#fusion_ad a{display:block;}}.posts{position:relative;}.meta{font-size:0.875em;color:#7a7a7a;}pre{max-width:100%;overflow-x:auto;}
+</style>
+    
+      <link href='http://fonts.googleapis.com/css?family=Raleway:400,900' rel='stylesheet' type='text/css'>
+<style type="text/css">
+    body {
+        position:relative;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 400;
+        line-height: 2;
+        font-size: 100%;
+        color: #fff;
+        background-color:black;
+        background-image: -webkit-linear-gradient(top, #0b2323,#423a9f,#c94761,#599a64);
+        background-image: -moz-linear-gradient(top, #0b2323,#423a9f,#c94761,#599a64);
+        background-image: -o-linear-gradient(top, #0b2323,#423a9f,#c94761,#599a64);
+        background-image: linear-gradient(top, #0b2323,#423a9f,#c94761,#599a64);
+    }
+    .navigation a {
+        color: #fff;
+    }
+
+    .navigation [class^=ss-] {
+        border-color: rgba(255,255,255,0.2);
+    }
+
+    #logotext path {
+        fill: white;
+    }
+
+    .post a {
+        color: #0f9;
+    }
+    .post-content a:hover,
+    .post-content a:focus {
+        color: #0e8;
+    }
+
+    h1, h2, h3 {
+        font-weight: 900;
+        line-height: 1;
+        text-transform: uppercase;
+        color: #fff;
+    }
+
+    del {
+        color: rgba(255,255,255,0.2);
+    }
+
+    .post-content pre, 
+    .post-content code {
+        border: 1px solid rgba(255,255,255,0.2);
+        background: rgba(255,255,255,0.075);
+        border-radius: 3px;
+        color: white;
+        text-shadow: none;
+    }
+
+    .post-content pre > code {
+        border: none;
+        background:none;
+    }
+
+    .post-content pre {
+        background: rgba(255,255,255,0.075);
+        padding: 0.5em;
+        overflow-x: scroll;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .postdate {
+        color: rgba(255,255,255,0.8);
+    }
+
+    .site-footer {
+        background: rgba(0,0,0,0.1);
+    }
+
+    .post-navigation a {
+        color: #fff;
+    }
+</style>

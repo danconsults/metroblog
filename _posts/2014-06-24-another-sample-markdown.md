@@ -4,6 +4,7 @@ title:  Another sample markdown
 date:   2014-06-24 23:28:58
 categories: design markdown
 tags: Design Markdown
+Style: davenport
 ---
 
 An h1 header
