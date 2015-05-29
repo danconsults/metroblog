@@ -1,7 +1,9 @@
 .li8-green, .green, .drk-green,
 .magenta, .li8-purple, .purple,
 .darken, .teal, .blue, .drk-blue,
- .red, .orange {
+ .red, .black 
+
+ .orange {
     color: #fff;
 }
 
@@ -10,6 +12,11 @@
 }
 
 /* Basic color palette */
+
+.black {
+    background: #000000;
+    border: 1px solid #FFFFFF;
+}
 
 .li8-green {
     background: #99b433;
