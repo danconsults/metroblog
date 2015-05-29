@@ -1,5 +1,5 @@
 
-font-family: ' Helvetica Neue; 
+font-family: 'Helvetica Neue; 
 
 
 .justified {
@@ -53,7 +53,7 @@ font-family: ' Helvetica Neue;
 
 .tile:hover {
   text-decoration: none;
-  color: #fff;
+  color: #C9A99F;
 }
 
 
@@ -66,7 +66,7 @@ font-family: ' Helvetica Neue;
 }
 
 .left-nav-item {
-    font-size: 18px;
+    font-size: 20px;
     text-indent: 100px;
     line-height: 50px;
 }
