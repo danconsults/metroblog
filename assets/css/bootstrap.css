@@ -7,14 +7,14 @@
 */
 /*! normalize.css v3.0.0 | MIT License | git.io/normalize */
 html {
-  font-family: Helvetica Neue ;
+  font-family: sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
 body {
   body {
         position:relative;
-        font-family: 'Helvetica Neue', sans-serif;
+        font-family: 'Raleway', sans-serif;
         font-weight: 400;
         line-height: 2;
         font-size: 100%;
@@ -279,9 +279,9 @@ html {
 }
 body {
   font-family: "Open Sans", Calibri, Candara, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 15px;
   line-height: 1.42857143;
-  color: #FFFFFF;
+  color: #333333;
   background-color: #ffffff;
 }
 input,
